@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 h1{
-    background-color: rgb(17, 3, 88);
+    background-color: rgb(102, 91, 158);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .holaMundo{
@@ -12,6 +12,10 @@ h1{
     text-align: center;
     max-width: 650px;
     margin: 15px auto;
+}
+.flex-index{
+    display: flex;
+    flex: wrap;
 }
 @media (max-width: 550px){
     .holaMundo{
