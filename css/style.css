@@ -22,3 +22,15 @@ h1{
         background-color: burlywood;
     }
 }
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-image: linear-gradient(to left, rgb(69, 69, 104),rgb(23, 68, 104));
+}
+.header ul{
+    list-style: none;
+    
+}
+.header li{
+    display: inline-blockgit;
+}
